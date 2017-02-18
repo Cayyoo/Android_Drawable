@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--只管理两层Drawable，所以只能提供两个Item-->
+    <item
+        android:drawable="@mipmap/level_off"/>
+
+    <item
+        android:drawable="@mipmap/level_open"/>
+
+</transition>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drawable</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bitmap">BitmapDrawable</string>
+    <string name="layer">LayerDrawable</string>
+    <string name="state_list">StateListDrawable</string>
+    <string name="level_list">LevelListDrawable</string>
+    <string name="transition">TransitionDrawable</string>
+    <string name="insert">InsertDrawable</string>
+    <string name="clip">ClipDrawable</string>
+    <string name="custom">CustomDrawable</string>
+</resources>
