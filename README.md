@@ -8,7 +8,6 @@
 * ClipDrawable
 * CustomDrawable
  
- <br/>
 ![drawable_overview](https://github.com/ykmeory/Drawable/blob/master/img_folder/drawable_overview.png)
 ------
 ![drawable_principle](https://github.com/ykmeory/Drawable/blob/master/img_folder/drawable_principle.png)
@@ -29,9 +28,8 @@
 ------
 ![ClipDrawable](https://github.com/ykmeory/Drawable/blob/master/img_folder/clip_drawable.png)
 ------
- 
-<br/>
-![screenshot_clip](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_clip.jpg "screenshot_clip")
-![screenshot_level_list_01](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_level_list_01.jpg "screenshot_level_list")
-![screenshot_level_list_02](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_level_list_02.jpg "screenshot_level_list")
-![screenshot_custom](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_custom.jpg "screenshot_custom")
+
+![clip](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_clip.jpg "screenshot_clip")
+![level_list_01](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_level_list_01.jpg "screenshot_level_list")
+![level_list_02](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_level_list_02.jpg "screenshot_level_list")
+![custom](https://github.com/ykmeory/Drawable/blob/master/screenshot/screenshot_custom.jpg "screenshot_custom")
